@@ -1,0 +1,69 @@
+# Supply-Chain-Optimization-SQL
+SQL-based analysis of supply chain data to explore customers, suppliers, products, orders, and business trends.
+Supply Chain Optimization and Insights Using SQL
+
+Project Overview
+
+This project focuses on analyzing supply chain data using SQL to generate business insights related to customers, suppliers, products, orders, and order items.
+
+The objective is to understand customer purchasing behavior, supplier performance, product demand, and order trends to support data-driven business decisions.
+
+Project Objectives
+
+* Analyze customer spending behavior.
+* Evaluate supplier performance.
+* Identify product demand patterns.
+* Analyze monthly order trends.
+* Identify inactive customers.
+* Identify high-value customers.
+
+Business Questions
+
+1. Which customers contribute the most to total spending?
+2. How can supplier performance be analyzed?
+3. Which products have higher demand?
+4. What are the monthly order trends?
+5. Which customers are inactive?
+6. Who are the high-value customers?
+
+Database Entities
+
+* Customers
+* Suppliers
+* Products
+* Orders
+* Order Items
+
+Tools and Technologies
+
+* SQL
+* Relational Database Management
+* Data Analysis
+* Business Intelligence
+
+Project Analysis
+
+The project covers customer spending analysis, supplier performance analysis, product demand analysis, monthly order trends, inactive customer identification, and high-value customer analysis.
+
+Project Presentation
+
+The project presentation is available here:
+
+View Supply Chain Project Presentation (PDF)
+
+Team Members
+
+* Modassar Nazar
+* Irfan Khan
+* Shivam
+* Sharad Pal
+
+Author
+
+Modassar Nazar
+
+GitHub: modassarsam
+
+Project Type
+
+Group Project
